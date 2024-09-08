@@ -1,4 +1,4 @@
-Escrow Solidity Smart Contract:-
+Escrow Solidity Smart Contract :-
 
 This repository contains a Solidity-based Escrow contract that securely holds and transfers funds. The contract involves three key participants:
 
